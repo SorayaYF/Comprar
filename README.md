@@ -1,9 +1,10 @@
 # 🛒 Lista de Compras (React Native) 🚀
 
-![Badge](https://img.shields.io/badge/React_Native-blue?style=flat-square\&logo=react)
-![Badge](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript)
-![Badge](https://img.shields.io/badge/Expo-000020?style=flat-square\&logo=expo)
-![Badge](https://img.shields.io/badge/AsyncStorage-32CD32?style=flat-square\&logo=android)
+![React](https://img.shields.io/badge/React-19.0.0-58c4dc?style=for-the-badge&logo=react&logoColor=58c4dc)
+![React Native](https://img.shields.io/badge/React_Native-0.79.4-58c4dc?style=for-the-badge&logo=react&logoColor=58c4dc)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.8.3-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Expo](https://img.shields.io/badge/Expo-53.0.12-000020?style=for-the-badge&logo=expo&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-2.1.2-32CD32?style=for-the-badge&logo=android)
 
 Bem-vindo ao seu novo ajudante de compras! 📝 Este aplicativo super prático foi criado na formação React Native da Rocketseat.
 
@@ -17,7 +18,7 @@ Bem-vindo ao seu novo ajudante de compras! 📝 Este aplicativo super prático f
 
 ## 📹 Demonstração
 
-![Lista de Compras - Demonstração](https://github.com/user-attachments/assets/9430dba2-4780-4c36-9dc7-728d9cac1632)
+[Lista de Compras - Demonstração](https://github.com/user-attachments/assets/9430dba2-4780-4c36-9dc7-728d9cac1632)
 
 ## 📁 Estrutura do Projeto
 
